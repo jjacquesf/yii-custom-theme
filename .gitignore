@@ -1,0 +1,8 @@
+node_modules/*
+views/*
+css/*
+img/*
+js/*
+!css/index.php
+!img/index.php
+!js/index.php
